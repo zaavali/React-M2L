@@ -1,0 +1,36 @@
+
+.nav{
+    background-color: white;
+    padding: 3px;
+    color: #538397;
+    border-bottom: solid 1 px #538397;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.img_film {
+    height: 100px;
+    
+}
+.user{
+    height: 40px;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.panier{
+    height: 30px;
+}
+.b{
+    color:blueviolet;
+}
+ a {
+    display: inline-block;
+    margin: 0 100px;
+    padding: 20px 70px;
+    text-decoration: none;
+    color: #538397;
+}
+
+

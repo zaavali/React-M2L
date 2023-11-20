@@ -1,0 +1,86 @@
+
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 30px;
+
+}
+
+.raquette {
+    height: 15rem;
+    
+}
+
+.balletennis {
+    height: 15rem;
+
+}
+
+.raquettetennis {
+    height: 15rem;
+
+}
+
+.raquettebad {
+    height: 15rem;
+
+}
+
+.volants {
+    height: 15rem;
+
+}
+
+.basketball {
+    height: 15rem;
+   
+}
+.survethaut {
+    height: 15rem;
+}
+
+.survetbas {
+    height: 15rem;
+}
+
+
+.tshirt {
+    height: 15rem;
+}
+
+.short {
+    height: 15rem;
+}
+
+.chasuble {
+    height: 15rem;
+}
+
+.chaussuresh {
+    height: 15rem;
+}
+.survethautf {
+    height: 15rem;
+}
+.survetbasf {
+    height: 15rem;
+}
+.tshirtf {
+    height: 15rem;
+}
+.shortf {
+    height: 15rem;
+}
+
+.chaussuresf {
+    height: 15rem;
+}
+
+.panierbtn{
+    height: 1rem;
+    padding: 0 10px;
+}
+
+

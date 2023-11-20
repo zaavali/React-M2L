@@ -1,0 +1,45 @@
+.carousel-container {
+    background:  white;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: hidden;
+}
+
+.carousel-item {
+   
+    height: 55rem;;
+    min-width: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 1s cubic-bezier(0.39, 0.575, 0.565, 1);
+}
+
+.rt{
+    height: 50rem;
+
+}
+.bt{
+    height: 50rem;
+    
+}
+
+.raquette{
+    height: 50rem;
+}
+ 
+  
+.rb{
+    height: 50rem;
+}
+
+  
+.v {
+    height: 50rem;
+ }
+  
+.bb{
+    height: 50rem;
+   
+}
